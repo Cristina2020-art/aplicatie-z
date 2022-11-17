@@ -1,0 +1,25 @@
+img {
+  width: 100px;
+  margin: 20px auto;
+  display: block;
+  margin-bottom: 30px;
+}
+#box {
+  display: inline-block;
+  border: 5px solid red;
+  padding: 0 20px;
+}
+li {
+  list-style-type: disc;
+  font-size: 30px;
+  margin: 5px 0;
+  color: red;
+}
+li span {
+  color: black;
+  font-family: arial;
+  position: relative;
+  font-size: 40px;
+  left: -20px;
+  top: -4px;
+}
